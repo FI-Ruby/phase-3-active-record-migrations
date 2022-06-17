@@ -1,3 +1,4 @@
+#file for connecting to database
 development:
   adapter: sqlite3
   database: db/development.sqlite3
